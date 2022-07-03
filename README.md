@@ -25,3 +25,5 @@ foobar.singularize('phenomena')
 ```
 
 <!-- Place images here -->
+
+![Image Placeholder](image.png)
